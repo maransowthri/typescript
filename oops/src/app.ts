@@ -63,7 +63,7 @@
 //   }
 // }
 
-/** Interfaces - Pure A */
+/** Interfaces - Pure Abstraction */
 interface Person {
   name: string;
   age: number;
